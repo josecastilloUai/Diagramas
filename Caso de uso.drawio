@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T01:53:51.868Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="9GcyS_6oC5UbgDV6rOMz" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-13T01:55:23.818Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="0zX-pS_zhiM5r6nYrHjX" version="21.7.4" type="github">
   <diagram name="Página-1" id="MMYfzO8ws4wUX-EKUS-9">
     <mxGraphModel dx="2644" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,8 +113,8 @@
         <mxCell id="udns-twLnADFoZrGotxa-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="udns-twLnADFoZrGotxa-8">
           <mxGeometry x="45" y="70" width="10" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="udns-twLnADFoZrGotxa-9" value="Caso de diagrama de secuencia del login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="25" width="240" height="30" as="geometry" />
+        <mxCell id="udns-twLnADFoZrGotxa-9" value="Caso de diagrama de secuencia del login&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-805" y="25" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="udns-twLnADFoZrGotxa-11" value="input(useid,password)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="udns-twLnADFoZrGotxa-10" parent="1" source="udns-twLnADFoZrGotxa-5">
           <mxGeometry relative="1" as="geometry">
@@ -162,7 +162,7 @@
             <mxPoint x="-774.9133333333335" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="udns-twLnADFoZrGotxa-28" value="ValidarUser(foundid,MachPassword))" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="udns-twLnADFoZrGotxa-8">
+        <mxCell id="udns-twLnADFoZrGotxa-28" value="ValidarUser(foundid,MachPassword))&amp;nbsp; &amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="udns-twLnADFoZrGotxa-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-100" y="260" as="sourcePoint" />
             <mxPoint x="-180" y="260" as="targetPoint" />
