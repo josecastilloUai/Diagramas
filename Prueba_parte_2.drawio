@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T14:05:35.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="m0Rm9AMgWdsNGPCRSiBo" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-14T14:05:49.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="gyAjOylsxvbxijuBAhas" version="21.7.5" type="github">
   <diagram name="Página-1" id="10k-QAqIkLxqyXfFxyNC">
-    <mxGraphModel dx="1233" dy="1633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1233" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -261,10 +261,10 @@
           <mxGeometry x="410" y="470" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mnEkrzC8VtUgMaNwOZgI-119" value="Diagrama de casos de uso del departamento de ventas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="10" width="370" height="60" as="geometry" />
+          <mxGeometry x="15" y="30" width="370" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mnEkrzC8VtUgMaNwOZgI-122" value="&lt;h2 style=&quot;font-size: 1rem; font-weight: 400; line-height: 1.5rem; font-family: &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; margin-block: 0px; padding-top: 5px; color: rgb(31, 31, 31); text-align: start; background-color: rgb(243, 246, 252);&quot; dir=&quot;ltr&quot; class=&quot;query-text ng-tns-c2788905153-11 ng-star-inserted&quot;&gt;caso de uso: se tiene que&amp;nbsp; solicitar un reporte&lt;/h2&gt;&lt;div&gt;Actores:&lt;/div&gt;&lt;div&gt;Gerente de ventas-Contabilidad&lt;/div&gt;&lt;div&gt;Supuesto: Existe un sistema de venta en donde el gerente tiene que iniciar sesión y tiene la opción de ver o solicitar informes&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="385" y="25" width="500" height="30" as="geometry" />
+          <mxGeometry x="400" y="60" width="500" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mnEkrzC8VtUgMaNwOZgI-123" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Objetos:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Gerente-Contabilidad-Banco-DDBB Reporte&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="830" y="850" width="250" height="110" as="geometry" />
